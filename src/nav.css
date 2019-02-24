@@ -1,0 +1,19 @@
+nav{
+  background-color: black;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+li{
+  display: inline;
+  color: white;
+  padding:20px;
+  text-align: center;
+}
+
+a{
+  color: grey;
+  text-decoration: none;
+  font-size: 20px;
+}

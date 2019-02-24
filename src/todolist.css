@@ -1,0 +1,32 @@
+.container{
+  width: 100%;
+  height: 100vh;
+  background-color: white;
+  text-align: center;
+}
+.form{
+  margin: auto;
+  padding-top: 2%;
+  width: 50%;
+  height: 80vh;
+ background-color: grey;
+}
+
+button{
+  margin: 4px;
+  border-style: none;
+  width: 50px;
+  padding: 2px;
+  background-color: white;
+  font-style: arial;
+  border-radius: 5px;
+}
+input{
+  border-radius: 5px;
+  border-style: none;
+  padding: 5px;
+}
+
+ul{
+  text-align: left;
+}
